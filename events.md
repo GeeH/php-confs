@@ -12,4 +12,4 @@
 | True North PHP | Toronto, Canada | 3rd November 2016 | 5th November 2016 |
 | php[world] | Washington D.C., USA | 14th November 2016 | 18th November 2016 |
 | PHP Brazil | Osasco, Brazil | 7th December 2016 | 11th December 2016 |
-| SunshinePHP | Miami, FL, USA | 2nd February 2016 | 4th February 2016 |
+| SunshinePHP | Miami, FL, USA | 2nd February 2017 | 4th February 2017 |
