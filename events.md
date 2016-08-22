@@ -1,7 +1,7 @@
 | Name | Location | Start | End |
 |------|----------|-------|-----|
 | SwanseaCon | Swansea, UK | 12th September 2016 | 13th September 2016 |
-| DrupalCon Europe | Dublin, Ireland | 26th September 2016 | 30th Septemeber 2016 |
+| DrupalCon Europe | Dublin, Ireland | 26th September 2016 | 30th September 2016 |
 | PHP Craft | Johannesburg, South Africe | 28th September 2016 | 30th September 2016 |
 | PHP NW | Manchester, UK | 1st October 2016 | 2nd October 2016 |
 | PHP Bulgaria | Sofia, Bulgaria | 7th October 2016 | 9th October 2016 |
