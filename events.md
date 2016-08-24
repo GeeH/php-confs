@@ -11,6 +11,7 @@
 | ZendCon 2016 | Las Vegas, NV | 18th October 2016 | 21st October 2016 |
 | ScotlandPHP | Edinburgh, UK | 29th October 2016 | 29th October 2016 |
 | True North PHP | Toronto, Canada | 3rd November 2016 | 5th November 2016 |
+| DomCode 2016 | Utrecht, Netherlands | 4th November | 4th November |
 | php[world] | Washington D.C., USA | 14th November 2016 | 18th November 2016 |
 | PHP Brazil | Osasco, Brazil | 7th December 2016 | 11th December 2016 |
 | SunshinePHP | Miami, FL, USA | 2nd February 2017 | 4th February 2017 |
