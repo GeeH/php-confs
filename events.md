@@ -20,6 +20,7 @@
 | PHP Brazil | Osasco, Brazil | 7th December 2016 | 11th December 2016 |
 | PHP Benelux | Antwerp, Belgium | 27th January 2017 | 28th January 2017 |
 | SunshinePHP | Miami, FL, USA | 2nd February 2017 | 4th February 2017 |
+| PHP and Friends @ FOSDEM | Brussels, Belgium | 4th February 2017 | 5th February 2017 |
 | The PHP UK Conference | London, UK | 16th February 2017 | 17th February 2017 |
 | Confoo CA | Montreal, Canada | 8th March 2017 | 10th March 2017 |
 | PHP Day | Verona, Italy | 12th May 2017 | 13th May 2017 |
