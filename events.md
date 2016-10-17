@@ -15,6 +15,7 @@
 | True North PHP | Toronto, Canada | 3rd November 2016 | 5th November 2016 |
 | DomCode 2016 | Utrecht, Netherlands | 4th November | 4th November |
 | php[world] | Washington D.C., USA | 14th November 2016 | 18th November 2016 |
+| PHP East Midlands Unconference | Leicester, UK | 26th November 2016 | 26th November 2016 |
 | SymfonyCon Berlin | Berlin, Germany | 1st December 2016 | 3rd December 2016 |
 | PHP Brazil | Osasco, Brazil | 7th December 2016 | 11th December 2016 |
 | PHP Benelux | Antwerp, Belgium | 27th January 2017 | 28th January 2017 |
