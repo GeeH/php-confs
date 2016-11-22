@@ -23,4 +23,5 @@
 | PHP and Friends @ FOSDEM | Brussels, Belgium | 4th February 2017 | 5th February 2017 |
 | The PHP UK Conference | London, UK | 16th February 2017 | 17th February 2017 |
 | Confoo CA | Montreal, Canada | 8th March 2017 | 10th March 2017 |
+| PHP Yorkshire | York, UK | 8th April 2017 | 8th April 2017 |
 | PHP Day | Verona, Italy | 12th May 2017 | 13th May 2017 |
